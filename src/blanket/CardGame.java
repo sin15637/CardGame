@@ -11,7 +11,7 @@ import java.util.Scanner;
 /**
  *
  * @author anmol
- * Group8
+ * Group8 Game
  * December 3, 2024
  */
 public class CardGame {
